@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a computer engineering student and a 🤓 backend developer with skills in Java, SpringBoot, Python, SQL, NodeJS and Javascript. On my GitHub profile you can find some of my projects, such as a task management web application with SpringBoot and MySQL and a REST API for user management with Python and Flask. 🚀
+I am a computer engineering student and a 🤓 backend developer with skills in Java, SpringBoot, Python, SQL, NodeJS and Javascript. On my GitHub profile you can find some of my projects, such as a task management web application with SpringBoot and MySQL and a REST API for user management with JavaScript and NodeJS. 🚀
 Some of my skills include:
 
 - ✔️Web and server development with Java and SpringBoot 💻
